@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mattyhakin/mattyhakin/refs/heads/main/banner.PNG" width="320" alt="Hi I'm Matt Hakin"/>
+    <img src="https://github.com/mattyhakin/mattyhakin/blob/main/header.png?raw=true" alt="Hi I'm Matt Hakin"/>
 
 # Hi, I'm Matt Hakin
 
