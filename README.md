@@ -19,8 +19,7 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 ## 📌 Featured Projects
 
 - **[Glucose Tracker](https://github.com/mattyhakin/glucose-tracker)** – A simple CSV-based tracker and visualizer for blood glucose & HbA1c trends.
-- **[Smart Webpage](https://github.com/mattyhakin/personal-website)** – A responsive, PWA-ready static site with SEO, sharing tools, and light green theming.
-- **[Email Clipboard Tool](https://github.com/mattyhakin/email-clipboard)** – A lightweight, accessible one-click email copy feature.
+- **[Complexed Insulin Calculator]((https://github.com/mattyhakin/complexinsulincalcGUI))** – A Insulin dose calculator based on carbs eaten, blood glucose levels and recent dosage
 
 ---
 
