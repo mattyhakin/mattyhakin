@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/mattyhakin/mattyhakin/main/banner.png" alt="Hi, I'm Matt Hakin" width="100%" />
+
 # Hi, I'm Matt Hakin
 
 I'm a hands-on Python developer passionate about building tools that solve real-world problems — especially in health tech, automation, and data visualization. With a background in tech and a DIY mindset, I enjoy crafting small, purposeful projects that help people make better decisions.
@@ -19,7 +21,7 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 ## 📌 Featured Projects
 
 - **[Glucose Tracker](https://github.com/mattyhakin/glucose-tracker)** – A simple CSV-based tracker and visualizer for blood glucose & HbA1c trends.
-- **[Complexed Insulin Calculator]((https://github.com/mattyhakin/complexinsulincalcGUI))** – A Insulin dose calculator based on carbs eaten, blood glucose levels and recent dosage
+- **[Complexed Insulin Calculator](https://github.com/mattyhakin/complexinsulincalcGUI)** – An insulin dose calculator based on carbs eaten and blood glucose levels.
 
 ---
 
