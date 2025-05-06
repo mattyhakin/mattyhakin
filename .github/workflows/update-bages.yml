@@ -1,0 +1,20 @@
+name: Update badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: matt-hakin
+          BADGE_SIZE: 110
+          COMMIT_MESSAGE: "Update README with Credly badges"
