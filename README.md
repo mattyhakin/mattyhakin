@@ -22,7 +22,17 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 
 ## 🏅 Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0da33f8a-b153-4478-a082-85f9a9d0dce3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/0da33f8a-b153-4478-a082-85f9a9d0dce3">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/c619e690-971f-4425-8082-461ae4d7a55a">
+    <img src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="120" alt="AWS Cloud Quest: Cloud Practitioner"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/7fcade8d-fab4-40c7-bd72-ff2d600161ef">
+    <img src="https://images.credly.com/size/680x680/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" width="120" alt="AWS Cloud Quest: Solutions Architect"/>
+  </a>
+</p>
 
 ## 🔭 What I'm Working On
 
