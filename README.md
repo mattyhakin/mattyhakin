@@ -22,8 +22,7 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 
 ## 🏅 Certifications
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0da33f8a-b153-4478-a082-85f9a9d0dce3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🔭 What I'm Working On
 
