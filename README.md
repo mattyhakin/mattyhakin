@@ -4,21 +4,25 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 
 ## 🧰 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5c915f?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-5c915f?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-5c915f?style=flat&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5c915f?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-5c915f?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-5c915f?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5c915f?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5c915f?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-5c915f?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 📌 Featured Projects
 
-- **[Glucose Tracker](https://github.com/mattyhakin/glucose-tracker):** A simple Python+CSV app for visualizing blood glucose & HbA1c trends.
-- **[Smart Webpage](https://github.com/mattyhakin/personal-website):** A responsive, PWA-ready static website with built-in SEO and sharing features.
-- **[Email Clipboard Tool](https://github.com/mattyhakin/email-clipboard):** One-click copy-to-clipboard email tool with a focus on accessibility.
+- **[Glucose Tracker](https://github.com/mattyhakin/glucose-tracker)** – A simple CSV-based tracker and visualizer for blood glucose & HbA1c trends.
+- **[Smart Webpage](https://github.com/mattyhakin/personal-website)** – A responsive, PWA-ready static site with SEO, sharing tools, and light green theming.
+- **[Email Clipboard Tool](https://github.com/mattyhakin/email-clipboard)** – A lightweight, accessible one-click email copy feature.
+
+---
 
 ## 🏅 Certifications
 
@@ -34,17 +38,21 @@ I'm a hands-on Python developer passionate about building tools that solve real-
   </a>
 </p>
 
+---
+
 ## 🔭 What I'm Working On
 
 - Improving the UI/UX of my health-tracking tools.
-- Learning more about lightweight Python frameworks and deployment.
-- Sharing more polished and documented projects on GitHub.
-
-## 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattyhakin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mattyhakinA@gmail.com)
+- Building more web-integrated Python utilities.
+- Showcasing clean, accessible code and UI in my repos.
 
 ---
 
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattyhakin&show_icons=true&theme=default)
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5c915f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattyhakin/)
+[![Email](https://img.shields.io/badge/Email-5c915f?style=flat&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+
+---
+
+![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattyhakin&show_icons=true&title_color=5c915f&icon_color=5c915f&text_color=333&bg_color=ffffff)
