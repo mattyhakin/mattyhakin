@@ -54,6 +54,7 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5c915f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattyhakin/)
 [![Email](https://img.shields.io/badge/Email-5c915f?style=flat&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+[![Website](https://img.shields.io/badge/Website-5c915f?style=flat&logo=google-chrome&logoColor=white)](https://mattyhakin.github.io)
 
 ---
 
