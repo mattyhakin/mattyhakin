@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/mattyhakin/mattyhakin/refs/heads/main/banner.PNG" alt="Hi, I'm Matt Hakin" width="60%" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/mattyhakin/mattyhakin/refs/heads/main/banner.PNG" width="320" alt="Hi I'm Matt Hakin"/>
 
 # Hi, I'm Matt Hakin
 
