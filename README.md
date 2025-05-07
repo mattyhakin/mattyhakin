@@ -33,6 +33,22 @@ A lightweight, fully tested insulin calculator with both CLI and GUI interfaces,
 - 💻 Windows `.exe` builds via PyInstaller
 - 📘 [User Guide](https://mattyhakin.github.io/insulin-calculator-simple/)
 
+### 💉 [Diabetes Tracker – Streamlit Web App](https://github.com/mattyhakin/glucose_tracker)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![License](https://img.shields.io/github/license/mattyhakin/glucose_tracker?style=flat-square)](https://github.com/mattyhakin/glucose_tracker/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/mattyhakin/glucose_tracker?label=release&color=success&style=flat-square)](https://github.com/mattyhakin/glucose_tracker/releases)
+[![Live App](https://img.shields.io/badge/Live_App-Click_to_Open-brightgreen?logo=streamlit&style=flat-square)](https://glucosetracker-4nhbmymvcbnhqdgpx79vjn.streamlit.app)
+
+A personal health tracking web app to log and visualize blood glucose, HbA1c results, and manage diabetic supplies.
+
+- ✅ Manual & CSV-based data entry  
+- 📈 Graphs with trendlines & rolling averages  
+- 📦 Supplies tracking and inventory updates  
+- 🧪 Versioned & organized with templates and reset scripts  
+- 📁 Live project board, changelog, wiki & roadmap  
+- 🌐 [Launch App](https://glucosetracker-4nhbmymvcbnhqdgpx79vjn.streamlit.app) • [View Repo](https://github.com/mattyhakin/glucose_tracker)
+
 ---
 
 ## 🏅 Certifications
