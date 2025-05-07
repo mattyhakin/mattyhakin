@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/mattyhakin/mattyhakin/blob/main/header.png?raw=true" alt="Hi I'm Matt Hakin"/>
+
 # Hi, I'm Matt Hakin
 
 I'm a hands-on Python developer passionate about building tools that solve real-world problems — especially in health tech, automation, and data visualization. With a background in tech and a DIY mindset, I enjoy crafting small, purposeful projects that help people make better decisions.
@@ -16,19 +19,11 @@ I'm a hands-on Python developer passionate about building tools that solve real-
 
 ---
 
-## 🚀 Featured Project
+## 📌 Featured Projects
 
-### 🧪 [SimpleInsulinCalc – Insulin Dose Calculator](https://github.com/mattyhakin/insulin-calculator-simple)
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![GUI](https://img.shields.io/badge/GUI-Tkinter-green.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
-
-A lightweight, fully tested insulin calculator with both CLI and GUI interfaces, designed for people managing Type 1 diabetes.
-
-- ✅ CLI & GUI modes
-- 🧪 GitHub Actions tested
-- 💻 Windows `.exe` builds via PyInstaller
-- 📘 [User Guide](https://mattyhakin.github.io/insulin-calculator-simple/)
+- **[Glucose Tracker](https://github.com/mattyhakin/glucose-tracker)** – A simple CSV-based tracker and visualizer for blood glucose & HbA1c trends.
+- **[Smart Webpage](https://github.com/mattyhakin/personal-website)** – A responsive, PWA-ready static site with SEO, sharing tools, and light green theming.
+- **[Email Clipboard Tool](https://github.com/mattyhakin/email-clipboard)** – A lightweight, accessible one-click email copy feature.
 
 ---
 
@@ -60,6 +55,7 @@ A lightweight, fully tested insulin calculator with both CLI and GUI interfaces,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5c915f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattyhakin/)
 [![Email](https://img.shields.io/badge/Email-5c915f?style=flat&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+[![Website](https://img.shields.io/badge/Website-5c915f?style=flat&logo=google-chrome&logoColor=white)](https://mattyhakin.github.io)
 
 ---
 
