@@ -3,6 +3,8 @@
 
 # Hi, I'm Matt Hakin
 
+*Crafting tools that make real-world decisions easier*
+
 I'm a hands-on Python developer passionate about building tools that solve real-world problems — especially in health tech, automation, and data visualization. With a background in tech and a DIY mindset, I enjoy crafting small, purposeful projects that help people make better decisions.
 
 ## 🧰 Tech Stack & Tools
