@@ -51,6 +51,13 @@ A personal health tracking web app to log and visualize blood glucose, HbA1c res
 - 📁 Live project board, changelog, wiki & roadmap  
 - 🌐 [Launch App](https://glucosetracker-4nhbmymvcbnhqdgpx79vjn.streamlit.app) • [View Repo](https://github.com/mattyhakin/glucose_tracker)
 
+### 🥘 Oven to Air Fryer Converter  
+[🔗 Live Demo](https://mattyhakin.github.io/over-to-airfryer/) · [📦 Repo](https://github.com/mattyhakin/over-to-airfryer)
+
+Convert oven temperatures and times into air fryer settings with this clean, responsive web app.  
+Now installable as a **Progressive Web App (PWA)** — works offline and can be added to your home screen!
+
+Tech stack: HTML, CSS, JavaScript · SEO optimized · PWA support · GitHub Pages
 ---
 
 ## 🏅 Certifications
