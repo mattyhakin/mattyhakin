@@ -59,6 +59,28 @@ Built with HTML, CSS & JS. Now a full **Progressive Web App** — works offline 
 [![PWA](https://img.shields.io/badge/PWA-ready-5cb85c?style=flat-square&logo=googlechrome&logoColor=white)]()  
 [![Repo](https://img.shields.io/github/stars/mattyhakin/over-to-airfryer?style=flat-square&label=GitHub%20Stars)](https://github.com/mattyhakin/over-to-airfryer)
 
+
+### 🚀 Featured Project
+
+### 🧙‍♂️ [Echoes of Leilon – Thursday Night D&D Chronicle](https://github.com/mattyhakin/ThursDnD)
+![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6.svg?logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-blueviolet)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+A parchment-themed, storybook-style website that chronicles an epic homebrew D&D campaign through immersive chapters and character-driven lore.
+
+- 📜 Styled like a worn tome with fantasy typography  
+- 🧩 Lore split into collapsible chapters for readability  
+- 🔁 Automatically deployed with GitHub Actions  
+- ✍️ Easily expandable for new story content
+
+### 🏅 Project Recognition
+
+<p align="left">
+  <img src="assets/fantasy-storytelling-badge.png" width="120" alt="Fantasy Storytelling Builder Badge"/>
+</p>
+
 ---
 
 ## 🏅 Certifications
