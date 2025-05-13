@@ -96,6 +96,7 @@ A parchment-themed, storybook-style website that chronicles an epic homebrew D&D
     <img src="https://images.credly.com/size/680x680/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" width="120" alt="AWS Cloud Quest: Solutions Architect"/>
   </a>
     <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/python-3-cert.png?raw=true" width="120" alt="codeacademy Python 3"/>
+    <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/elements-ai-cert.PNG?raw=true" width="120" alt="Elements of AI"/>
 </p>
 
 ---
