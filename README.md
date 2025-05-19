@@ -98,7 +98,6 @@ A parchment-themed, storybook-style website that chronicles an epic homebrew D&D
     <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/python-3-cert.png?raw=true" width="120" alt="codeacademy Python 3"/>
     <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/elements-ai-cert.png?raw=true" width="120" alt="Elements of AI"/>
     <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/building-ai-cert.png?raw=true" width="120" alt="Building AI"/>
-    <img src="https://github.com/mattyhakin/mattyhakin/blob/main/assets/acg-terraform.png.png?raw=true" width="120" alt="A Cloud Guru Terraform Associate Cert"/>   
 </p>
 
 ---
