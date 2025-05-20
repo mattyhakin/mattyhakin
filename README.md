@@ -60,11 +60,11 @@ Built with HTML, CSS & JS. Now a full **Progressive Web App** — works offline 
 [![Repo](https://img.shields.io/github/stars/mattyhakin/over-to-airfryer?style=flat-square&label=GitHub%20Stars)](https://github.com/mattyhakin/over-to-airfryer)
 
 ### 🩺 [Insulin Dosing Suite – Multi-Interface Calculator](https://github.com/mattyhakin/insulin-dosing-suite)  
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
-![CLI](https://img.shields.io/badge/Interface-CLI-informational)  
-![GUI](https://img.shields.io/badge/Interface-GUI-yellowgreen)  
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)  
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)  
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Interface](https://img.shields.io/badge/Interface-CLI-informational)
+![GUI](https://img.shields.io/badge/Interface-GUI-yellowgreen)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
+![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![Release](https://img.shields.io/github/v/release/mattyhakin/insulin-dosing-suite?label=release)
 
 A modular, user-friendly insulin calculator with both CLI and GUI tools, designed to support individuals managing their insulin needs through customizable meal-based ratios and correction dosing logic.
